@@ -8,6 +8,5 @@
    1. Склонируйте данный репозиторий.
    2. Откройте файл ```index.html```
    
-Или вы можете просто зайти на [сайт](kriswis.github.io/3D-Parallax-Effect/), загруженный на Github Pages.
 # Макет вёрстки
 https://www.youtube.com/watch?v=2tAPxjcGLms&list=LL&index=6&t=17s
